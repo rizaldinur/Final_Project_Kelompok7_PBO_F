@@ -13,4 +13,4 @@ Game ini adalah game pacman seperti pada umumnya. Terdapat objek ``pacman`` yang
 https://zetcode.com/javagames/pacman/
 
 ## Catatan kelompok
-Mohon maaf kami hanya bisa memodifikasi sedikit atas kodenya, yakni mengganti icon pacman, ghost, warna board, warna makanan. Masih belum bisa memberikan modifikasi welcome screen, pilihan level, dan highscore.
+Mohon maaf kami hanya bisa memodifikasi kodenya sedikit, yaitu mengganti icon pacman, ghost, warna board, dan warna makanan. Kami masih belum bisa memberikan modifikasi welcome screen, pilihan level, dan highscore.
